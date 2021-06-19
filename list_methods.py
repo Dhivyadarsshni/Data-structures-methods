@@ -1,4 +1,4 @@
-list=[16,23,32,'dhivya','darsshni',True,False,3.2,5.7]            #creating the list with all datatyoes as an example
+list=[16,23,32,'dhivya','darsshni',True,False,3.2,5.7]            #creating the list with all data types as an example
 
 ##########List Methods##########
 
